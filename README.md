@@ -8,8 +8,8 @@ Dự án này tập trung vào việc áp dụng các kỹ thuật Học sâu (D
 
 Dự án cung cấp giao diện web trực quan để người dùng có thể tải ảnh lên và nhận kết quả chẩn đoán cũng như hình ảnh phân đoạn vùng u (segmentation) hoặc bản đồ nhiệt (Grad-CAM).
 
-Link dataset (Brain Tumor MRI Dataset): https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
-Link dataset (🧠 BRISC 2025): https://www.kaggle.com/datasets/briscdataset/brisc2025/
+- **Link dataset (Brain Tumor MRI Dataset)** : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+- **Link dataset (🧠 BRISC 2025)** : https://www.kaggle.com/datasets/briscdataset/brisc2025/
 
 ## Cài đặt
 
@@ -78,3 +78,4 @@ Sau khi chạy lệnh, truy cập vào đường dẫn được hiển thị tr�
 - Nguyễn Văn Tấn Phát - 2351267275
 - Phạm Thành Doanh 
 - Nguyễn Hoàng Lộc 
+
