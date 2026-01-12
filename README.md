@@ -55,7 +55,6 @@ Sau khi chạy lệnh, truy cập vào đường dẫn được hiển thị tr�
 
 ## Cấu trúc Thư mục
 
-- `data/`: Chứa dữ liệu ảnh MRI (Training và Testing).
 - `model/`: Chứa các file trọng số mô hình đã huấn luyện (.keras, .pth).
 - `notebook/`: Chứa các Jupyter Notebook dùng để thử nghiệm và phân tích.
   - `01-cnnpro99-nguyenvantanphat.ipynb`
@@ -63,7 +62,6 @@ Sau khi chạy lệnh, truy cập vào đường dẫn được hiển thị tr�
   - `03-xception-tanphatxhoangloc.ipynb`
   - `05-mutiltaskxception-nguyenvantanphat.ipynb`
   - `06-edaandevalueclassicationbrics2025-nguyenvantanphat.ipynb`
-- `results/`: Chứa kết quả đánh giá, biểu đồ training, và ảnh visualizations.
 - `src/`: Mã nguồn chính cho việc huấn luyện và đánh giá mô hình.
   - `main.py`: Script huấn luyện chính.
   - `eda.py`: Phân tích khám phá dữ liệu.
@@ -76,6 +74,7 @@ Sau khi chạy lệnh, truy cập vào đường dẫn được hiển thị tr�
 
 ## Tác giả
 - Nguyễn Văn Tấn Phát - 2351267275
-- Phạm Thành Doanh 
-- Nguyễn Hoàng Lộc 
+- Phạm Thành Doanh - 23512672xx
+- Nguyễn Hoàng Lộc - 2351267271
+
 
